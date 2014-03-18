@@ -1,0 +1,13 @@
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\bin\Debug\CookBlub.dll
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\bin\Debug\CookBlub.pdb
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\bin\Debug\CookBlub.dll.mdb
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\bin\Debug\CookBlub.CookBlub.apk
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\bin\Debug\CookBlub.CookBlub-Signed.apk
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\obj\Debug\CookBlub.dll
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\obj\Debug\CookBlub.pdb
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\obj\Debug\android\bin\CookBlub.CookBlub.apk
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\obj\Debug\res\layout\main.xml
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\obj\Debug\res\values\strings.xml
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\obj\Debug\res\drawable\icon.png
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\obj\Debug\R.cs.flag
+C:\Users\Snig501\Documents\Projects\CookBlub\CookBlub\obj\Debug\uploadflags.txt
