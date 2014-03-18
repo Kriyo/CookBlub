@@ -1,0 +1,13 @@
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\bin\Debug\Hello_Android.dll
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\bin\Debug\Hello_Android.pdb
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\bin\Debug\Hello_Android.dll.mdb
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\bin\Debug\Hello_Android.Hello_Android.apk
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\bin\Debug\Hello_Android.Hello_Android-Signed.apk
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\obj\Debug\Hello_Android.dll
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\obj\Debug\Hello_Android.pdb
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\obj\Debug\android\bin\Hello_Android.Hello_Android.apk
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\obj\Debug\res\layout\main.xml
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\obj\Debug\res\values\strings.xml
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\obj\Debug\res\drawable\icon.png
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\obj\Debug\R.cs.flag
+C:\Users\Snig501\Documents\Projects\Hello_Android\Hello_Android\obj\Debug\uploadflags.txt
